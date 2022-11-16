@@ -7,3 +7,7 @@ The module an Attiny 1614 based that is used to act as an intefcae between a mic
   3- UART
   4- 4*DIGITAL SIGNALS
   5- 4*ANALOG SIGNALS
+
+
+  Schematic and PCB are designed using Eagle
+ 
